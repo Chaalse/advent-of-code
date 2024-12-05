@@ -5,7 +5,7 @@ There's a NodeJs script that fetches the input for each day and stores it in a "
 
 ## Usage
 
-To use the fetchData script you need Node version >= 16.4.3.
+To use the fetchData script you need Node version >= 16.13
 
 To download project dependencies perform npm install within the 2024 folder.
 
