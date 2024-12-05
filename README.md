@@ -9,7 +9,7 @@ To use the fetchData script you need Node version >= 16.4.3.
 
 To download project dependencies perform npm install within the 2024 folder.
 
-To fetch the input use node fetchData.j <DayToFetch>
+To fetch the input use node fetchData.js <DayToFetch>
 
 Your input will be downloaded and a CLI message will tell you so.
 
