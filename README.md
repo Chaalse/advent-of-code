@@ -14,7 +14,7 @@ network tab of your browser where you access an input in the official site. Once
 you must place it inside a ".env" file within the folder, or straight place it next to the
 "Cookie" attribute if you don't plan to publish your code.
 
-To fetch the input use node fetchData.js "Day To Fetch No Quotes"
+To fetch the input use node fetchData.js Day (i.e: node fetchData.js 1)
 
 Your input will be downloaded and a CLI message will tell you so.
 
