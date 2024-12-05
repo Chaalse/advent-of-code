@@ -1,4 +1,4 @@
-# Avent of Code
+# Advent of Code
 
 Repository with AoC templates and solutions from 2024 and on.
 There's a NodeJs script that fetches the input for each day and stores it in a ".txt" file
