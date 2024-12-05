@@ -16,7 +16,7 @@ Your input will be downloaded and a CLI message will tell you so.
 And that's all folks!
 
 ## IMPORTANT
-Every ".hs" file is a haskell file and those with a day<number>.hs are scripts to solve said day problem. Don't look at them if you don't want spoilers.
+Every ".hs" file is a haskell file and those named "day<number>.hs" are scripts to solve said day problem. Don't look at them if you don't want spoilers.
 
 ## Contributing
 
