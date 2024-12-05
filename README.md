@@ -15,15 +15,6 @@ Your input will be downloaded and a CLI message will tell you so.
 
 And that's all folks!
 
-## IMPORTANT
-Every ".hs" file is a haskell file and those named "day<number>.hs" are scripts to solve said day problem. Don't look at them if you don't want spoilers.
-
-## Contributing
-
-I'm not really aiming to make this a big deal, so won't be taking PR's.
-
-Please make sure to update tests as appropriate.
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
