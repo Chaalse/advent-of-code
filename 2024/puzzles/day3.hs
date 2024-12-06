@@ -9,9 +9,10 @@ secondPart = print "something"
 
 main :: IO ()
 main = do
-    content <- readFile "input<day>.txt"
+    content <- readFile "inputs/mini-input3.txt"
     let normalizedContent = normalizeString content
     let parsedContent = init $ splitOn (pack "\n") (pack normalizedContent)
 
-    firstPart
-    secondPart
+    print normalizedContent
+    --firstPart
+    --secondPart
